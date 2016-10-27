@@ -8,3 +8,44 @@ this.mixin(BindingMixin);
 :)
 
 pete. 
+
+EXAMPLE:
+
+To run the example you'll need:
+
+    i) Browserify (to have the mixin available in the browser)
+    ii) Bower (for riot itself)
+    iii) Serve (to run the example)
+
+
+Instructions:
+
+i) Clone the repository
+
+    git clone https://github.com/peteisace/riot2waybind.git
+
+ii) Install the dependent node modules
+
+    (i haven't done a dry run, you may need to install bower globally)
+
+    npm install
+
+iii) Run bower
+
+    bower install
+
+iv) Run Browserify
+
+    Browserify example/main.js -o example/bundle.js
+
+v) Serve it
+
+    serve .
+
+    (then browse to http://localhost:3000/example/index.html)
+
+let me know if you have any problems.
+
+Thx,
+
+Pete. 
