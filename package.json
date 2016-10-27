@@ -1,0 +1,30 @@
+{
+  "name": "riot2waybind",
+  "version": "1.0.0",
+  "description": "Riot mixin for 2 way binding",
+  "main": "BindingMixin.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peteisace/riot2waybind.git"
+  },
+  "keywords": [
+    "riot",
+    "binding",
+    "mixin"
+  ],
+  "author": "Pete Coleman <peteisace@live.com> (http://github.com/peteisace)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/peteisace/riot2waybind/issues"
+  },
+  "homepage": "https://github.com/peteisace/riot2waybind#readme",
+  "devDependencies": {
+    "browserify": "^13.1.1"
+  }
+}

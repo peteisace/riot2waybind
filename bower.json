@@ -1,0 +1,27 @@
+{
+  "name": "riot2waybind",
+  "description": "Riot mixin for 2 way binding",
+  "main": "BindingMixin.js",
+  "authors": [
+    "Pete Coleman <peteisace@live.com> (http://github.com/peteisace)"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "riot",
+    "binding",
+    "mixin"
+  ],
+  "homepage": "https://github.com/peteisace/riot2waybind",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "riot": "riotjs#^2.6.4"
+  }
+}
